@@ -4,9 +4,6 @@ Objetivo del proyecto: Poder ver la esperanza de vida de varios paises y contine
 Power Bi Proyect designed for World table city and World table country databases
 Online Visualization on: https://app.powerbi.com/reportEmbed?reportId=647e6be4-3347-4f4e-803a-0768974200c7&autoAuth=true&ctid=92e84ceb-fbfd-47ab-be52-080c6b87953f
 
-
-Objetivo del proyecto: Poder ver la esperanza de vida de varios paises y continentes, poder desarrollar el análisis de distintas bases de datos 
-
 Importación y uso de librerías como Pandas, Google Colab, Matplotlib, Seaborn 
 
 Lenguaje utilizado: Python 
